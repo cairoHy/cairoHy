@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋🤓
 
-<!--
-**cairoHy/cairoHy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/blog-110-brightgreen)]()
 
-Here are some ideas to get you started:
+- 🔭 Currently working on my degree.
+- 🌱 Focus on Natural Language Processing.
+- 🤔 Interested in everything about PL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=cairoHy&show_icons=true)
+
+
+---
+⭐️ From [cairoHy](https://github.com/cairoHy)
