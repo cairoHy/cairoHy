@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/blog-110-brightgreen)]()
 
-- 🔭 Currently working on my degree.
 - 🌱 Focus on Natural Language Processing.
 - 🤔 Interested in everything about PL.
 
